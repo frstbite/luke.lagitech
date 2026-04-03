@@ -1,2 +1,2 @@
 # README
-This project is my old portfolio
+This project is my old portfolio.
